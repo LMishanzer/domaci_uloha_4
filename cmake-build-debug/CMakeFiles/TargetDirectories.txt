@@ -1,0 +1,3 @@
+/home/mike/PA2/domaci_uloha_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mike/PA2/domaci_uloha_4/cmake-build-debug/CMakeFiles/domaci_uloha_4.dir
+/home/mike/PA2/domaci_uloha_4/cmake-build-debug/CMakeFiles/edit_cache.dir
